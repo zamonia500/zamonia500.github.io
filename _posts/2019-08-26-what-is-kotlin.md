@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "99. Install kotlinc in mac"
+title: "02. What is kotlin"
 date: 2019-08-26 18:26:28 -0400
 categories: kotlin
 tags: [kotlin]
