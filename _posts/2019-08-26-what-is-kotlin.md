@@ -1,9 +1,10 @@
 ---
-title: "01. What is Kotlin"
-date: 2019-08-26 09:26:28 -0400
+layout: post
+title: "99. Install kotlinc in mac"
+date: 2019-08-26 18:26:28 -0400
 categories: kotlin
+tags: [kotlin]
 ---
-
 - Elvis operator 라고 부르는 ?:는 age가 null인 경우 0을 반환하고, 그렇지 않은 경우 age를 반환한다.
 - 코틀린의 주목적은 현재 자바가 사용되고 있는 모든 용도에 적합하면서도 더 간결하고 생산적이며 안전한 대체 언어를 제공하는 것이다.
 - 주 사용처

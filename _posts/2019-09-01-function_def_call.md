@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "03. Kotlin Function def & call"
 date: 2019-09-01 18:26:28 -0400
 categories: kotlin
+tags: [kotlin]
 ---
 # 3. 함수 정의와 호출
 

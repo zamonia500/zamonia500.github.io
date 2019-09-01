@@ -1,7 +1,9 @@
 ---
+layout: post
 title: "02. Kotlin Basic"
 date: 2019-08-26 10:26:28 -0400
 categories: kotlin
+tags: [kotlin]
 ---
 # 2. 코틀린 기초
 
