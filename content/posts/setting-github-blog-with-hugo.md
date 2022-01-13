@@ -4,11 +4,10 @@ date: 2022-01-13T21:03:58+09:00
 draft: false
 ---
 
-한글 자료를 보고 따라했더니 뻑나서 삽질하다가 써 보는 hugo & github official docs 만 참고해서 github blog를 hugo를 사용하도록 세팅했다.
-
-수행해야 하는 작업의 목록은 꽤나 많아 보이지만 사실 별거 없다. 쭉쭉 따라하면 20분 컷 가능하다.
-
-실수를 적게 할 수 있는 방향으로 작업 순서를 편집하였다.
+한글 자료를 보고 따라했더니 뻑나서 삽질하다가 작성하는 문서. 
+hugo & github official docs 만 참고해서 github blog를 hugo를 사용하도록 세팅했다. 
+수행해야 하는 작업의 목록은 꽤나 많아 보이지만 사실 별거 없다. 쭉쭉 따라하면 20분 컷 가능하다. 
+실수를 적게 할 수 있는 방향으로 작업의 순서와 일부 명령어를 편집하였다. 
 
 # Install Hugo
 [Official doc : Quick Start](https://gohugo.io/getting-started/quick-start/)를 참고했다.
