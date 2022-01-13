@@ -1,4 +1,4 @@
 baseURL = 'https://zamonia500.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "MLOps engineer zamonia500's tech blog"
 theme = 'PaperMod'
