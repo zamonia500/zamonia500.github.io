@@ -62,9 +62,7 @@ touch .nojekyll
 
 <USERNAME>.github.io repository를 생성하자.
 
-<p align="center">
-    <img src="/images/posts/create-github-blog-repo.png" title="repo"/>
-</p>
+![repo](/images/posts/create-github-blog-repo.png)
 
 # Add remote
 
