@@ -1,4 +1,4 @@
 baseURL = 'https://blog.zamonia500.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "zamonia500's tech blog"
 theme = 'PaperMod'
