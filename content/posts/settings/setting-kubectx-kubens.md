@@ -2,8 +2,8 @@
 title: "kubectx, kubens 설정하기"
 date: 2022-03-13T16:35:16+09:00
 draft: false
-tag: ["kubernetes"]
-category: [“setting”]
+categories: ["setting"]
+tags: ["kubernetes"]
 ---
 
 ## kubectx, kubens란?
