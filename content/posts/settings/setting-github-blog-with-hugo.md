@@ -2,6 +2,8 @@
 title: "Official docs 만 참고해서 hugo github blog 세팅하기"
 date: 2022-01-13T21:03:58+09:00
 draft: false
+categories: ["setting"]
+tags: ["kubernetes"]
 ---
 
 한글 자료를 보고 따라했더니 뻑나서 삽질하다가 작성하는 문서. 
@@ -62,7 +64,7 @@ touch .nojekyll
 
 <USERNAME>.github.io repository를 생성하자.
 
-![repo](/images/posts/create-github-blog-repo.png)
+![repo](/images/posts/settings/create-github-blog-repo.png)
 
 # Add remote
 

@@ -2,8 +2,8 @@
 title: "python aiohttp 사용법"
 date: 2022-03-13T14:16:29+09:00
 draft: false
-tag: ["python", "aiohttp"]
-category: ["python"]
+tags: ["python", "aiohttp"]
+categories: ["python"]
 ---
 
 # [aiohttp](https://docs.aiohttp.org/en/stable/)란?

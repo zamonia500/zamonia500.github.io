@@ -2,3 +2,15 @@ baseURL = 'https://blog.zamonia500.com/'
 languageCode = 'en-us'
 title = "zamonia500's tech blog"
 theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
