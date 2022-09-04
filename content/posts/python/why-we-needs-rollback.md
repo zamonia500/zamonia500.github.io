@@ -1,7 +1,7 @@
 ---
 title: "Why We Needs Rollback"
 date: 2022-03-31T23:16:19+09:00
-draft: false
+draft: true
 categories: ["python"]
 tags: ["SQLAlchemy"]
 ---
@@ -110,6 +110,11 @@ try-except-finally에서 사용된 session method는 `commit`, `rollback`, `clos
 - Session.close()는 내부적으로 세션에 연결되어 있는 Session.expunge_all() method를 호출한다. 그리고 Engine object에 연결되어 있는 모든 transaction & connection을 release 한다.
 - 다시 사용할 수 있다.
 
-# 톹아본 뒤 Example code 분석해보기
+
+# 왜 rollback이 필요한 지 모르겠는 이유
+
+- 
+
+
 
 # 그럼에도 불구하고 Example code가 Best practice 인 이유
